@@ -3,10 +3,6 @@
 
 一个基于Github仓库和Cloudflare Workers的简单快捷可分类图片的全免费纯白嫖随机图片接口实现
 
-相比较4，增加了可以使用`form`参数返回其他格式图片，比如webp。
-
-**当然，需要参照本文件夹下的`image.json`自行编写json文件**
-
 cloudflare worker无法使用使用canvas api或第三方库进行转码，**所以其他格式图片需要自行上传，且不同格式图片文件夹的目录结构、文件名须保持一致**，目录格式参照本文件夹下的`jpg`，`webp`
 
 图片批量转码和压缩推荐使用[caesium](https://saerasoft.com/caesium#downloads)，可选保留目录结构
