@@ -152,5 +152,6 @@ PS：
 
 ## changelog
 
-- 2023.02.19 测试无误上传至github
+- 2023.12.13 测试无误上传至github
+- 来源参考：https://github.com/Cheshire-Nya/easy-random-image-api/tree/main
 
