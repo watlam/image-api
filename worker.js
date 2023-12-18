@@ -4,7 +4,7 @@ var urlIndex = "https://raw.githubusercontent.com/watlam/image-api/main/html-tem
 //主页模板地址
 var url404 = "https://raw.githubusercontent.com/watlam/image-api/main/html-template/404.html";
 //404模板地址
-var imgHost = "https://raw.githubusercontent.com/watlam/image-api/main/";
+var imgHost = "https://raw.githubusercontent.com/watlam/image-api/main/1/";
 //图片地址前部不会发生改变的部分
 //用github作为图库应按照此格式"https://raw.githubusercontent.com/<github用户名>/<仓库名>/<分支名>/"
 var redirectProxy = 2;
