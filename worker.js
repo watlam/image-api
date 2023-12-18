@@ -1,4 +1,4 @@
-var jsonUrl = "https://raw.githubusercontent.com/watlam/image-api/main/image.json";
+var jsonUrl = "https://raw.githubusercontent.com/watlam/image-api/main/1/image.json";
 //json文件的地址
 var urlIndex = "https://raw.githubusercontent.com/watlam/image-api/main/html-template/index.html";
 //主页模板地址
